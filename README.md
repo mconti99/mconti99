@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ Computer engineering student<br>🌱 I’m currently learning Javascript
+🖥️ Computer engineering student<br>🌱 I’m currently learning Javascript<br>✉️matteo_conti99@virgilio.it
 
 
 ## 🌐 Socials:
