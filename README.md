@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ Computer engineer student<br>🌱 I’m currently learning Javascript
+🖥️ Computer engineering student<br>🌱 I’m currently learning Javascript
 
 
 ## 🌐 Socials:
