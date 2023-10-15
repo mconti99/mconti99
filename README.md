@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ Computer engineering student<br>🏫 Actually doing an internship at University of Geneve, in collaboration with CERN <br>🌱 I’m currently learning Spring Framework<br>✉️ matteo_conti99@virgilio.it
+🖥️ Computer engineering student<br>🏫 Actually working as Software Engineer for Intecs Group <br>🌱 I’m currently learning Spring Framework<br>✉️ matteo_conti99@virgilio.it
 
 
 ## 🌐 Socials:
