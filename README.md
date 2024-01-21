@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ Computer engineering student<br>🏫 Actually working as Software Engineer for Intecs Group <br>🌱 I’m currently learning Spring Framework<br>✉️ matteo_conti99@virgilio.it
+🖥️ Computer engineer<br>🏫 Actually working as Software Engineer for Intecs Group <br>🌱 I’m currently learning Spring Framework and Microsoft Azure Cloud environment<br>✉️ matteo_conti99@outlook.it
 
 
 ## 🌐 Socials:
